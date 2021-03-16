@@ -2,6 +2,12 @@
 
 Code created to a presentation about [useSWR](https://swr.vercel.app/) in an online event.
 
+## useSWR API
+
+```
+const { data, error, isValidating, mutate } = useSWR(key, fetcher, options)
+```
+
 ## ⚙️ How to setup and run the project
 
 Follow the steps below to run the project on your computer.
